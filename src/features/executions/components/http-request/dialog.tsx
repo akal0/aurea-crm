@@ -198,7 +198,7 @@ export const HttpRequestDialog: React.FC<Props> = ({
                     for simple values.
                     <br /> Alternatively, use{" "}
                     <span className="text-primary font-medium tracking-wide">
-                      {"{{jsonVariable}}"}
+                      {"{{json variable}}"}
                     </span>{" "}
                     to stringify objects.
                   </FormDescription>
@@ -232,7 +232,7 @@ export const HttpRequestDialog: React.FC<Props> = ({
                       for simple values.
                       <br /> Alternatively, use{" "}
                       <span className="text-primary font-medium tracking-wide">
-                        {"{{jsonVariable}}"}
+                        {"{{json variable}}"}
                       </span>{" "}
                       to stringify objects.
                     </FormDescription>
